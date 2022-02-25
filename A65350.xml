@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the funeral of Mrs. Abigail Costivell, widow, in the Church of Little Brandon in Norfolk by Jessop Webb ...</title>
+            <author>Webb, Jessop, 1647 or 8-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65350</idno>
+            <idno type="STC">Wing W1200</idno>
+            <idno type="STC">ESTC R13540</idno>
+            <idno type="EEBO-CITATION">13323962</idno>
+            <idno type="OCLC">ocm 13323962</idno>
+            <idno type="VID">99043</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65350)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 443:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the funeral of Mrs. Abigail Costivell, widow, in the Church of Little Brandon in Norfolk by Jessop Webb ...</title>
+                  <author>Webb, Jessop, 1647 or 8-1711.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed as directed in her will"</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Costivell, Abigail, d. 1695?</term>
+               <term>Bible. --  N.T. --  Revelation XIV, 13 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99043:1"/>
+            <pb facs="tcp:99043:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at the FUNERAL OF Mrs. <hi>ABIGAIL COSTIVELL,</hi> Widow, In the Church of <hi>Little Brandon</hi> in <hi>Norfolk.</hi>
+            </p>
+            <p>By <hi>JESSOP WEBB,</hi> M. A. Rector of the ſame Church.</p>
+            <p>Printed as directed in her Will.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:99043:2"/>
+            <pb n="3" facs="tcp:99043:2"/>
+            <head>A SERMON preach'd at the Fu<g ref="char:EOLhyphen"/>neral of Mrs. <hi>ABIGAIL COSTI<g ref="char:EOLhyphen"/>VELL,</hi> Widow.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVEL. xiv. 13.</hi>
+                  </bibl>
+                  <p>And I heard a Voice from Heaven, ſaying unto me, Write, Bleſſed are the Dead which die in the Lord, from henceforth; yea, ſaith the Spirit, that they may reſt from their Labours, and their Works do follow them.</p>
+               </q>
+            </epigraph>
+            <p>IN this Chapter we have the Lamb come to the De<g ref="char:EOLhyphen"/>ſtruction of <hi>Babylon,</hi> who is deſcribed by his Compa<g ref="char:EOLhyphen"/>ny and Attendance, and the Succeſs of his Advent, which is either the Ruine of the Enemy, (<hi>ver.</hi> 10, 11.) or the Happineſs of his Friends, (as in <hi>ver.</hi> 13.) In the Text we have a Promiſe of Conſolation, wherein I ſhall obſerve;</p>
+            <p n="1">1ſt. The Promiſer, God ſet out by his Nature, <hi>He is ſaid to be a Spirit.</hi>
+            </p>
+            <p n="2">
+               <hi>2dly.</hi> The Recorder, <hi>John,</hi> who is ſet forth by his Ef<g ref="char:EOLhyphen"/>fect, <hi>I heard a Voice from Heaven.</hi>
+            </p>
+            <p n="3">
+               <hi>3dly.</hi> The Thing promiſed, <hi>Bleſſed are the Dead:</hi> With two Reaſons why they are ſo:</p>
+            <list>
+               <item>1. Becauſe they <hi>reſt from their Labours.</hi>
+               </item>
+               <item>2. <hi>Their Works follow them.</hi>
+               </item>
+            </list>
+            <pb n="4" facs="tcp:99043:3"/>
+            <p>I ſhall not have time ſufficient to run over<g ref="char:punc">▪</g> all theſe, therefore omitting them, I ſhall fix my Diſcourſe as this preſent Occaſion requires: <hi>Bleſſed are the Dead which die in the Lord.</hi>
+            </p>
+            <p>In which we have this Obſervation, That it is a bleſſed thing to <hi>die in the Lord.</hi>
+            </p>
+            <p>Now to <hi>die in the Lord,</hi> is to die in the Faith and Fear, in the Favour and Love of Chriſt.</p>
+            <p>It is oppoſed here to Backſliders, who begin well, but end ill; who begin in the Spirit, but end in the Fleſh. As if he ſhould ſay, it is a good thing to begin well, but bet<g ref="char:EOLhyphen"/>ter to end ſo. It is well that we have made a Profeſſion, but better that ye hold it out to the end. He is not bleſſed that begins in the Lord; but bleſſed is he that dies in the Lord. In <hi>Eccleſ.</hi> 7.1. <hi>Solomon</hi> ſaith, that the Day of ones Death is better than the Day of ones Birth; which I know not know to make good, unleſs we under<g ref="char:EOLhyphen"/>ſtand it, either of the Fleſh which thinketh Death to be the end of all Evils, or elſe that this corporal Death is the entring into Life everlaſting. This muſt be under<g ref="char:EOLhyphen"/>ſtood of the Children of God, for the Death of wicked Men is worſe than the Day of Birth. It were happy for them, if they ſhould never die, as it had been for <hi>Judas</hi> if he had never been born.</p>
+            <p>Some Antiquaries have given ſome Reaſons why the Day of ones Death is better than the Day of ones Birth.</p>
+            <p n="1">1. Becauſe the Day of his Birth is the beginning of his Miſeries, but the Day of his Death is the End thereof. A Man is born to ſuffer, as Sparks fly upward, ſaith <hi>Job;</hi> but when he dies, his Miſeries end; <hi>for then ſhould I have lien ſtill, and been at Reſt,</hi> Job 3.13. The Grave is the Receptacle of thoſe Souls to keep them from the Oppreſſor and Avenger; it ſecures them from the Blows and Stripes of the Perſecutors, they ſleep quietly from the Noiſe of
+<pb n="5" facs="tcp:99043:3"/>Slander or Scandal. When they once lie in the Duſt, their Bodies are freed from Sickneſs and Diſeaſes: Hun<g ref="char:EOLhyphen"/>ger and Thirſt dwell not there; neither is there any fear of any malignant Humour to make it look pale and wann; only that Corruption that Mortality gave it, and Putrefaction which nothing eſcapes: There the Righte<g ref="char:EOLhyphen"/>ous <hi>reſt from their Labours.</hi>
+            </p>
+            <p n="2">2. Becauſe in the Day of our Birth we are born in Sin, and brought forth in Iniquity. That Original Filth that was moulded up in the Clay of our firſt Father, ſticks cloſe to our Bones, and renders us as miſerable as that can make us.</p>
+            <p>But in the Day of our Death we die in the Lord, our Sins and our ſelves then ſhake Hands, and bid an eternal Farewel to one another. The Gave ſaith to our Sins, as God to the Sea, <hi>Hitherto ſhalt thou come, and no fur<g ref="char:EOLhyphen"/>ther.</hi> It is the bleſſed Dying in the Lord that makes that Day better; it is their departing in Peace, dying with a good Conſcience, in the Fear, Faith and Favour of God, that renders that Day happy; whereas the Day of the Death of the Wicked is more bitter than the Day of their Birth: For I may ſay of the Wicked whom the Son never kiſſed, that when they die they go to the Damned. That Day is the Beginning of Evil, for as Chriſt ſaid to the penitent Thief, <hi>This Day thou ſhalt be with me in Paradiſe:</hi> So he may ſay to the Wicked, This Day ſhall ye be with the Devils in Hell. As the Righteous die to live for ever, ſo the Wicked die to die eternally. From this Day of Death, of thine infinite Mercy good Lord deliver us. Bleſſed are they that die! Why then ſo is <hi>Judas</hi> and <hi>Caiaphas, Herod</hi> and <hi>Pontius Pilate</hi> bleſſed: Why then it is no matter how we live, if Bleſſedneſs will crown our Death. No, curſed are all thoſe that die if they die not in the Lord. It is the
+<pb n="6" facs="tcp:99043:4"/>dying in the Lord that makes our Death bleſſed: Which Bleſſedneſs is nothing elſe but an Accumulation of many good things together which concur in the Death of the Godly.</p>
+            <list>
+               <item>
+                  <hi>Firſt;</hi> It renders his Death ſure and ſafe.</item>
+               <item>
+                  <hi>Secondly;</hi> Sweet and comfortable.</item>
+               <item>
+                  <hi>Thirdly;</hi> Good and honourable.</item>
+               <item>
+                  <hi>Fourthly;</hi> Advantagious and beneficial.</item>
+            </list>
+            <p>
+               <hi>Firſt;</hi> Sure: Whereas the Death of the Wicked is un<g ref="char:EOLhyphen"/>certain; they are to ſeek when they die: as for Example it is ſaid of <hi>Nero</hi> that wicked Tyrant when he died, Whither wilt thou go, my Soul? or what will become of thee I know not. But the Souls of the Righteous, when they die, are committed into God's Hands; <hi>Into thy Hands I commend my Spirit,</hi> faith Chriſt. The Viper nor the Adder ſhall not hurt them. If God takes our Souls into his Cuſtody and Charge, they are ſafe and ſure.</p>
+            <p>
+               <hi>Secondly;</hi> The Death of them that die in the Lord is ſweet and comfortable. Death at worſt is but a grim Servant, a lean pale-fac'd Meſſenger, to let the Child of God into his Father's Houſe: or, like the Breathing of a tumified Sore, there may be a little Smart, but there follows a great deal of Eaſe. So the Death of the God<g ref="char:EOLhyphen"/>ly may be full of Agonies and Grief, full of Dolours and Tortures, but there follows as much Eaſe and Tranquil<g ref="char:EOLhyphen"/>lity as before was Grief and Miſery.</p>
+            <p n="1">1. It is called as Sleep, for the great Refreſhment it brings them: for as Sleep was ordained to cheriſh the Bodies after their Labours, ſo was Death to deliver the Righteous out of Troubles. In the 7th Chapter of the
+<pb n="7" facs="tcp:99043:4"/>
+               <hi>Acts</hi> we read, St. <hi>Stephen</hi> in the Shower of Stones fell a<g ref="char:EOLhyphen"/>ſleep, which was ſtrange he ſhould reſt ſo quietly with the Noiſe of Stones about his Ears. Although ſome<g ref="char:EOLhyphen"/>times they die in great Agonies, yet they die ſweetly that die in the Lord.</p>
+            <p n="2">2. It is called a Departure in Peace; <hi>Luke</hi> 2.29. <hi>Lord, now letteſt thou thy Servant depart in Peace, according to thy Word.</hi> Altho hitherto I have born about me the Rebukes of many, have carried about me the Marks of the Lord Jeſus, yet my Mind is ſatisfied, my Heart is at Reſt; let now thy Servant depart in Peace.</p>
+            <p n="3">3. It is called a gathering to our Fathers: Good King <hi>Joſiah</hi> was gathered to his Fathers. As the Wheat when it is ripe is gathered into the Granery; ſo the Righteous when they are ripe with good Works, when they are in the Prime and Well-liking, when they are fit for the Lord, then he gathers them to himſelf. It is to the God<g ref="char:EOLhyphen"/>ly as an Harbour after a Storm (when the Mariner had many Fears and more Storms in his Voyage) is ſweet and comfortable. So when the godly Man, after he hath been toſſed with the Waves of this troubleſom World, when he hath eſcaped this Gulph of Fear, and the other of Deſpair, when he hath ſhunned this Rock of Vexa<g ref="char:EOLhyphen"/>tion, and that Shelf of Calamity, how gladly doth he commit his craſie Veſſel to that Harbour which will ſecure him from all theſe.</p>
+            <p>After the long and tedious Journey which the Wiſe Men took to ſeek him who was born the King of the Jews, the Text ſaith, <hi>they rejoiced exceedingly.</hi> Now if they rejoiced to have found him in a Manger, <hi>Luke</hi> 2.7. what would they have done to have found him in a Palace?</p>
+            <pb n="8" facs="tcp:99043:5"/>
+            <p>Now when the Godly Man dies, he finds Chriſt not with a Croſs but a Crown; not in a Manger, but in thoſe amiable Courts of Heaven, which muſt raviſh his Soul with that beautiful Sight.</p>
+            <p>
+               <hi>Thirdly;</hi> Their Death is good and honourable, fit and ſeaſonable. When the Sinner dies in his Sins, he is like the untimely Fruit of a Woman, he ſhall never ſee the Son. When <hi>Siſera</hi> fled to the Tend of <hi>Jael,</hi> he ſaid to her, If any Man ask for me, ſay I am not here: but ſhe took a Nail and ſmote the Nail into his Temples, and ſo he died with a Lie in his Mouth; <hi>Judg.</hi> 4.20, 21. Be<g ref="char:EOLhyphen"/>hold <hi>Zimri</hi> and <hi>Cozbi</hi> committing Fornication, as the laſt Exerciſe of their Lives, were ſlain by <hi>Phinehas, Elea<g ref="char:EOLhyphen"/>zar</hi>'s Son; <hi>Numb.</hi> 25.8. Behold <hi>Ananias</hi> and <hi>Sapphira</hi> committing Sacrilege and Lying in their Hearts, fell ſud<g ref="char:EOLhyphen"/>denly down dead; <hi>Acts</hi> 5.5.</p>
+            <p>Behold <hi>Nicanor</hi> raging againſt the Jews, cauſed his Troops to march and give Battel on their Sabbath, ſup<g ref="char:EOLhyphen"/>poſing that their Day of Reſt would make him a better Market of the Enemies Blood. In whoſe Army there were ſome Jews, either compelled by Neceſſity or a vo<g ref="char:EOLhyphen"/>luntary Apoſtacy, who deſired not to deſtroy ſo cruelly and barbarouſly, by reaſon that that Day was dedicated to Reſt. To whom he blaſphemouſly replied, Who is he that ordained that Day to Sloth? They told him it was the God of Heaven that had ſet it apart for his Glory. Whereupon he ſaid, That that God of Heaven ſhould content himſelf to make Laws in his own Dominions: But he that was Almighty on Earth, commanded them to march for the Buſineſs of their King. Whereupon when the Battel was ended, they knew that <hi>Nicanor</hi> lay dead in his Harneſs; and, as an Example to all Blaſ<g ref="char:EOLhyphen"/>phemers, had his Head cut off from his Shoulders, and
+<pb n="9" facs="tcp:99043:5"/>the Hand that he had ſtretched out againſt the Holy Temple of the Almighty hang'd up as a ſad Spectacle to all the World, and his Tongue that had blaſphemed God cut out, and given as a Prey to the Fowls of the Air; 2 <hi>Macc.</hi> 15.</p>
+            <p>Thus unſeaſonable are all the Deaths of the Wicked, whoſe Lives have been a continued Series of Impieties; yet I never read of the Righteous, to whom a good Con<g ref="char:EOLhyphen"/>ſcience is a continual Feaſt, that he died in his Sins. Al<g ref="char:EOLhyphen"/>though he dies in his tender Age, in his full Strength, or in old Age; although his Agonies were great, his Pains ſearching, and his Troubles many, yet he hath wip'd off the black Score of his Sins, by the Tears of a melting Heart, and ſo dies ſeaſonably. Their Death is honoura<g ref="char:EOLhyphen"/>ble; <hi>The Name of the Wicked ſhall rot, but the Righteous ſhall be had in everlaſting Remembrance.</hi> The Wicked while they live here, it is poſſible many admire them more for the Crumbs than their Perſons, more for the Loaves than their Goodneſs, more out of Fear than Love: But when they die they go down to the Duſt with Diſ<g ref="char:EOLhyphen"/>honour, and their Aſhes are ſcarcely ſuffer'd to lie qui<g ref="char:EOLhyphen"/>etly. But the Godly, while they live, are perſecuted, de<g ref="char:EOLhyphen"/>rided, hated of their Neighbours: So perſecuted they all the Prophets; but when they were dead, then they built them Tombs and Sepulchres. <hi>David</hi> when he was alive, the very Drunkards made Songs upon him; but when dead, eſteem him a Man after God's own Heart. <hi>Joſeph,</hi> when he was in <hi>Egypt,</hi> they caſt him into Pri<g ref="char:EOLhyphen"/>ſon; but when he ſlept with his Fathers, they mourned for him.</p>
+            <p>It is an Honour when a Man comes home from his Journey to be welcomed with great Attendance.</p>
+            <pb n="10" facs="tcp:99043:6"/>
+            <p>But when a Chriſtian arrives to the end of his Hea<g ref="char:EOLhyphen"/>venly Journey, the Angels ſtand ready to carry him into <hi>Abraham</hi>'s Boſom; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake</hi> 16.22. then Chriſt he uſhers them into the Preſence of his Father. Is it not a great Honour for a Subject to be brought by the King's Son into his Father's Preſence; and there tells him what a good Subject he hath been to him; and thus and thus hath he done for me, reward him as it ſeems in thy Pleaſure? So Chriſt takes his faithful Servant, and brings him to the Preſence of his Father, tells him what Gain he hath made of his Talent, and deſires him that he may enter into the Joy of his Maſter.</p>
+            <p>
+               <hi>Fourthly,</hi> and Laſtly, Their Death is advantagious and beneficial to them <hi>to live is Chriſt, and to die is Gain,</hi> Phil. 1.21. <hi>He that loſeth his Life for my ſake ſhall ſave it:</hi> and he that <hi>forſaketh Father or Mother for me, ſhall receive an hundred fold:</hi> and thoſe <hi>Treaſures that Moth doth not eat, nor Ruſt corrupt, ſhall be their Reward.</hi> God<g ref="char:EOLhyphen"/>lineſs is great Gain both in this Life and a future Eſtate, it affords us a neceſſary Supply of all our temporal Wants, it procures us a good Name abroad, and a good Con<g ref="char:EOLhyphen"/>ſcience within us; yet theſe are but the firſt Fruits of our Labours, we only ſow in Corruption, but we reap the Harveſt in Incorruption.</p>
+            <p>But in our future State, when this Mortal ſhall have put on Immortality, at the ſecond Coming of Chriſt; 1 <hi>Theſſ.</hi> 4.16. <hi>And the Dead in Chriſt ſhall riſe firſt,</hi> and then live with him, and live with him for ever: Theſe are the things that make the Death of the Righteous profitable.</p>
+            <pb n="11" facs="tcp:99043:6"/>
+            <list>
+               <item>1. They ſhall live.</item>
+               <item>2. They ſhall live with Chriſt.</item>
+               <item>3. They ſhall live with him for ever.</item>
+            </list>
+            <p>Live! Why,ſo did <hi>Korah, Dathan</hi> and <hi>Abiram;</hi> the Wicked live and have Riches in Poſſeſſion, and ſo do the Beaſts that periſh. Is it ſuch a Matter to live? No, not in Senſuality and Luſt: in this Caſe it is better to die than to live. But they that die in the Lord live with Chriſt, not in the Tents of Ungodlineſs, not in the Ha<g ref="char:EOLhyphen"/>bitations of <hi>Meſech</hi> but the King's Palace, amongſt Scep<g ref="char:EOLhyphen"/>ters and Crowns, Stars and Intelligences, with Angels and Archangels, and all the Hoſt of Heaven. They live with Chriſt not for a Moment or a Month, not for thou<g ref="char:EOLhyphen"/>ſands of Days or Millions of Years, but for ever. If one Day in God's Preſence is better than a thouſand Days we now enjoy, how much better will a thouſand Years be than one Day? The natural Body that is nouriſhed with external Aliments and natural Food, no longer doth it laſt than they uphold it: when they decay, Man turns to his Duſt. He that lives upon the Creature, when that periſheth he fadeth. He that lives upon his Credit, if that dies he cracks; but they that die in the Lord live for ever.</p>
+            <p>Let a Man go into a Garden that is never ſo great, take his Pleaſure and Paſtime, wallow in Beds of Roſes, yet he muſt retreat and go out again. He that hath a good Leaſe for two or three Lives, it will end at laſt, Time concludes all things: But they that die in the Lord, the Clock of Time ſtrikes Eternity to them, they live for ever. Now if you are curious to know the Reaſon how this comes to paſs, be it known unto all here preſent,
+<pb n="12" facs="tcp:99043:7"/>that the Death of the Righteous is a great part of his Jointure. There is a Marriage between Chriſt and the pious Soul; when the Soul is given to Chriſt, the Join<g ref="char:EOLhyphen"/>ture is made to the Soul; 1 <hi>Cor.</hi> 3.21, 22, 23. There<g ref="char:EOLhyphen"/>fore let no Man glory in Man, for all things are yours, whether <hi>Paul,</hi> or <hi>Apollo,</hi> or <hi>Cephas,</hi> or the World, or Life, or Death, or Things preſent, or Things to come, all are yours; and ye are Chriſt's, and Chriſt is God's.</p>
+            <p>Behold here is a large Enfeoffment, a greater Dowry than the Devil promiſed to our Saviour Chriſt: if he would vouchſafe to honour him with his bended Knee, if he would fall down and worſhip him, he promiſed him the Gift of the whole World: Yet he doth not ſay, Life and Death, Hell and the Grave, Things preſent, and Things to come, are yours. Conſider then our Sa<g ref="char:EOLhyphen"/>viour Chriſt ſuffered for our Sins, underwent the heavy Wrath of his Father's Diſpleaſure for us. He was the Scape-goat, who having the Sins of the whole World caſt upon him, went into the Wilderneſs, inſulted over the Devils, triumph'd over the Grave, and led Death cap<g ref="char:EOLhyphen"/>tive in ſpite of her Sting: <hi>O Death, where is thy Sting! O Grave, where is thy Victory!</hi>
+            </p>
+            <p>Thus when he had ſuffered in <hi>Golgotha,</hi> where his Blood run down upon the Graves of the Dead that were buried there, he lay down in the Grave himſelf: There<g ref="char:EOLhyphen"/>by ſo perfuming it, that we may ſafely lie down in that Bed which his bleſſed Body lay in; from whence it is that they that die in the Lord are bleſſed, that is, freed from that Curſe that <hi>Adam</hi> brought upon them. But here ſome may ſay, How is their Death that die in the Lord bleſſed? for oftentimes their Pains are ſo great, that it makes them ſenſeleſs; their Miſeries ſo ſearching, as makes them ſhrink under their Burden; and their Diſ<g ref="char:EOLhyphen"/>eaſes
+<pb n="13" facs="tcp:99043:7"/>ſometimes ſo noiſom, as bereave them of the Com<g ref="char:EOLhyphen"/>fort of their Relations. Now is their Death that die thus comfortable and bleſſed? I anſwer, Although the Old Man decays day by day, yet the New Man encreaſeth: And although their Bodies may ſmart with Sores, yet their Souls may be comforted with the Joy of the Spirit. Although St. <hi>Paul</hi> carried in his Body the Marks of the Lord Jeſus, when in danger of his Life, yet he is com<g ref="char:EOLhyphen"/>forted with the Hopes of a Reſurrection. The more ſharply their Bodies are tormented, the ſooner are they freed from their Pains, and the ſooner is their Soul de<g ref="char:EOLhyphen"/>livered from the Burden of the Fleſh. Have we not read of thoſe Martyrs that daunted the Malice of their Perſecutors in the midſt of Flames, their greater Joy over-ruling theſe leſſer Pains? What although their Ago<g ref="char:EOLhyphen"/>nies be ſo great that they take away their Senſe, when their Souls are raviſh'd with the Contemplation of thoſe more generous Joys they are preſently to be Miſtriſs of in Paradiſe? And what if their Bodies be ulcerated with Sores and Putrefactions, if in Patience they poſſeſs their Souls?</p>
+            <p>It was the Saying of a good Man, that if his Father ſhould ſend for him by the meaneſt Servant he had, yet will I go. The moſt loathſom Diſeaſe imaginable is a Servant of God, ſent from our heavenly Father to bring us to him. Let our Sickneſs be never ſo, it brings us to our heavenly Father. We will go, Lord, we will go to thee, for thou haſt the Words of eternal Life. We may ſee here the happy Condition of the pious Soul, let his Life be what it will, yet his Death is bleſſed. The Wicked while they live are incloſed in their own Fat, they come into no Danger like other Men; they talk of Vanity every one with his Neighbour, and their Blaſphe<g ref="char:EOLhyphen"/>mies
+<pb n="14" facs="tcp:99043:8"/>are againſt the moſt High. Lo, theſe are they that proſper in the World, and have Riches in Poſſeſſion: Here they have the World in a Sling, and do even what they liſt; while the pious Soul, to whom it is Meat and Drink to do the Will of his heavenly Father, is tor<g ref="char:EOLhyphen"/>mented and diſtreſſed, of whom the World is weary: yet in their Deaths one is comforted and the other tormented. And if there be ſo much Happineſs in his Death, what abundance of Peace, Joy and Comfort is there for him in the Life to come? <hi>If the Light</hi> (ſaith Chriſt) <hi>that is in thee be Darkneſs,</hi> that Darkneſs muſt need be great. So I ſay, If the worſt piece of a Chriſtian's Life be bleſſed, what Heart can conceive the beſt? Let this then be in<g ref="char:EOLhyphen"/>ſtilled into the Hearts of all that want the Comfort of a godly Life; and if you repent not, ye ſhall want the Comfort of a godly Death. For moſt certain it is, that bleſſed is the Death of the godly Man, while curſed are all thoſe that forget God, and go down to the Duſt in their Sins.</p>
+            <p n="2">
+               <hi>2dly.</hi> If the Death of the Juſt be ſo bleſſed, then there is no Reaſon why we ſhould mourn and grieve at their Departure. Let the Dead be mourned for, yet not thoſe that die in the Lord, not thoſe that have made their Peace with God; but let ſuch Dead be mourned for that go from one Torment to another, from the Wicked in this Life to the Damned in Hell, from their Sins on Earth to their Puniſhment in Flames, that go from Death to Death. When <hi>Abſalom</hi> died, <hi>David</hi> wept for his Friend, but it was becauſe he died in his Sins: Although he had a fair Body, he had a foul Soul. But when his Child died, he re<g ref="char:EOLhyphen"/>joiced, roſe up, and waſhed himſelf, and eat Bread. It is hard for dear Friends, for near Relations, to part with one another, to ſee the Corps of a Father or a Mother, a
+<pb n="15" facs="tcp:99043:8"/>Husband or a Wife, <hi>&amp;c.</hi> lie upon the cold Floors, without the Expreſſion of ſome Tears. It is hard to ſtop the Floodgates of Nature, Fleſh and Blood is too weak to maſter our Paſſions. Sorrow we may, weep we may, but not without Hope, for them that <hi>ſleep in the Lord.</hi>
+            </p>
+            <p>To conclude therefore, If the Death of the Godly be ſo bleſſed, as it requires our Joy to perfect their Felicity, let us wipe away all Tears from our Eyes, ſince after they have lived the Life of Nature they are to live the Life of Glory: Since their Life was a Probation of thoſe Patterns and Precepts Chriſt left them to keep and obſerve: Since they have gained ſo much by their Talent that was en<g ref="char:EOLhyphen"/>truſted to them, in ſpite of any Oppoſition, never let it grieve us, that they now enter into their Maſter's Joy. Now if their Death, and only theirs is bleſſed, why then, O all ye that forget God, endeavour to make your Lives anſwerable to theirs. Every one of you, like the Sons of <hi>Zebedee,</hi> deſire to ſit with Chriſt in his Kingdom, but none ſhall ſit there but ſuch as can drink of his Cup: None but they that can ſuffer with him ſhall be glorified with him. Therefore let your daily Labour be, to con<g ref="char:EOLhyphen"/>form your Lives anſwerable to his moſt holy Will and pi<g ref="char:EOLhyphen"/>ous Examples, that your Death in his Name, and through his Merits, may be bleſſed for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
